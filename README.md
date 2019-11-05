@@ -1,4 +1,4 @@
-My React
+My React 2
 ## Available Scripts
 
 In the project directory, you can run:
