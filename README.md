@@ -1,4 +1,4 @@
-My React
+My React New
 ## Available Scripts
 
 In the project directory, you can run:
