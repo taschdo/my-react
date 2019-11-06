@@ -1,4 +1,4 @@
-My React New
+My React Forum
 ## Available Scripts
 
 In the project directory, you can run:
